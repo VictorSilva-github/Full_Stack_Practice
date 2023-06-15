@@ -15,3 +15,9 @@ Para instalar pacotes
 ///cursos
 https://www.trainning.com.br/formacao/dev-fullstack-frontend-backend
 https://www.trainning.com.br/formacao/dev-fullstack-frontend-backend
+
+
+//git aulas
+https://www.youtube.com/watch?v=kbWbRx3-9IY
+https://www.youtube.com/watch?v=fBi-hBqfHTc
+https://www.youtube.com/watch?v=lv5a80XgzlI
