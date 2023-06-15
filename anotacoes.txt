@@ -1,0 +1,17 @@
+Para instalar pacotes 
+
+
+//npm install readline-sync
+//npm install -g readline-sync
+
+
+
+
+// DOC do javaScript e de outro
+///https://developer.mozilla.org/en-US/docs/Web/JavaScript
+//https://developer.mozilla.org/en-US/
+
+
+///cursos
+https://www.trainning.com.br/formacao/dev-fullstack-frontend-backend
+https://www.trainning.com.br/formacao/dev-fullstack-frontend-backend

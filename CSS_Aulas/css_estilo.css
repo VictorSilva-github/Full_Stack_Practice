@@ -1,0 +1,72 @@
+
+*{ margin: 0;
+    padding: 0;
+}
+
+:root{
+    font-size: 65%;
+    /* font-size: 20px; */
+}
+
+.background{
+    height: 500px;
+    width: 100%;
+    background-color: grey;
+    background-image: url(https://images.pexels.com/photos/17048927/pexels-photo-17048927/free-photo-of-wood-light-road-dawn.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+a{
+    font-size: 4.0rem;
+    color: blue;
+}
+a:visited {
+    color: red;
+    font-size: 4.0rem;
+}
+a:hover{
+    color: black;
+}
+
+
+
+h2, h3{
+    font-family: 'Caveat', cursive, Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 9.6rem;
+    color: rgb(32, 170, 152);
+    background-color: #f0ff00;
+    font-weight: 300;  
+}
+
+
+h3{
+    color: lightgray;
+    font-size: 10.0rem;
+    font-weight: 900px;
+    font-style: oblique;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2{
+    text-align: justify;
+    text-indent: 90px;
+    margin: 0.5%;
+    padding: 0.5%;
+    font-size: 3rem;
+    
+}
+
+
+
+

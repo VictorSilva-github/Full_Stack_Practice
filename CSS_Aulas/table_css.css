@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    font-size: 65.5%;
+    /* font-size: 20px; */
+}
+
+main {
+    padding-top: 9rem;
+}
+
+
+table,
+th,
+tr,
+td {
+    border: 1px solid black;
+
+}
+
+table tr:first-child {
+    background-color: steelblue;
+    color: white;
+}
+
+table tr:nth-child(2n + 2) {
+    background-color: lightgray;
+}
+
+table {
+    font-size: 3.5rem;
+    margin: 1%;
+}
+
+ul {
+    padding-left: 4.5rem;
+    list-style: Nome;
+    font-size: 3rem;
+}
+
+ol {
+    padding-left: 5.5rem;
+    font-size: 3.0rem;
+    list-style: upper-roman;
+}
+
+h2 {
+    font-size: 5.0rem;
+}
+
+.box {
+    height: 10rem;
+    width: 20rem;
+    margin: 15px;
+    /* (Margin = atua fora da box) */
+    padding: 15px;
+    /* (Padding atua dentro do box) */
+    border: 10px solid lightblue;
+    background-color: blueviolet;
+    color: beige;
+    font-size: 1.5rem;
+    display: inline-block;
+    border-radius: 1rem;
+
+}
+
+.boxes {
+    position: relative;
+}
+
+/* AQUI EU POSSO MEXER em caixas individualmente */
+.box:nth-child(1) {
+    position: absolute;
+    top: 20px;
+    left: 15px;
+}
+
+nav.menu {
+
+    position: fixed;
+    background-color: slategrey;
+    width: 100%;
+    padding: 1%;
+    top: 0px;
+    z-index: 1;
+
+}
+
+img {
+    height: 20rem;
+    width: 30rem;
+    object-fit: cover;
+    /* Aqui em baixo coloco a imagem fix sem move na pagina! */
+    position: fixed;
+    top: 90px;
+    left: 600px;
+}
+
+.contact h2{
+    top: 8rem;
+    text-align: center;
+    position: relative;
+    background-color: yellowgreen;
+    position: sticky;
+
+}
