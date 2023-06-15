@@ -1,7 +1,7 @@
 
 
 const numero = 10;
-//t
+
 
 console.log(numero == 10);
 console.log(numero > 20);
@@ -12,6 +12,7 @@ console.log("Quando se usa 2 iguais ele compara o conteudo, aqui é numero =='10
 console.log("=== compara a variavel e o conteudo dela, == compara o conteudo somente.");
 console.log("Quando se usa 2 iguais ele compara o conteudo, aqui é numero ==='10' ",numero === '10');
 
+console.clear();
 console.clear();
 
 console.log("MESMA coisa para o diferente !==");
