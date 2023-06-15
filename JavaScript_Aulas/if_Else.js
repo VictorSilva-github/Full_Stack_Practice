@@ -12,6 +12,7 @@ if(idade >= 18){
 
 //
 console.log("");
+console.log("");
 if (50 > 100) {
     console.log("Falta um tanto");
   } else {
